@@ -1,16 +1,3 @@
-/**
- * Copyright © DB Schenker. All rights reserved.
- *
- * @Title:UrlConn2.java
- * @Project:TestSession
- * @Package:com.schenker.testsession.net
- * @Description:TODO
- * @author:lixu
- * @date:Mar 8, 2016  2:05:22 PM
- * @version:V1.0 
- */
-package com.schenker.testsession.net;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
